@@ -13,3 +13,4 @@ This is a simple web project, deployment can be on any web server or even local 
 #### Result
 We should be able to see the prototype of the website here.
 
+I guess this is very simple to understand.
